@@ -18,3 +18,12 @@ git status
 
 查看文本变化
 git diff <file>
+
+查看已有版本
+git log 
+或 git log --pretty=oneline
+或 
+
+回退版本
+
+
