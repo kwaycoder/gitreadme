@@ -25,5 +25,25 @@ git log
 或 
 
 回退版本
+/**回退上一个版本
+git reset --hard HEAD^
+/**回退上两个个版本
+git reset --hard HEAD^^
+/**回退指定版本号
+git reset --hard 1094a
+
+工作区 dir
+版本库 .git
+	暂存区
+	master
+	head
+git add ->暂存区
+git commit ->分支
 
 
+撤销修改
+git checkout -- [file]
+
+删除文件
+git rm readme.txt
+git commit -m 'remove readme.txt'
