@@ -15,3 +15,6 @@ git commit -m '将本地文件添加到远程仓库'
 
 查看当前本地库的状态
 git status
+
+查看文本变化
+git diff <file>
