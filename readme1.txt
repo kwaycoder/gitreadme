@@ -47,3 +47,6 @@ git checkout -- [file]
 É¾³ıÎÄ¼ş
 git rm readme.txt
 git commit -m 'remove readme.txt'
+
+githubÃØÔ¿
+C:\Users\hcjijin\.ssh
